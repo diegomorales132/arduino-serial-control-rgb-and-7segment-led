@@ -16,6 +16,6 @@ Serial input is read as text.
 If input matches a color, the RGB LED changes. 
 If input is a number, the 7-segment updates.
 ## How to run
-Upload the code, open Serial Monitor, type commands such as "green", "red", "pink", and "blue", plus all numbers from 0-9. 
+Upload the code, open Serial Monitor, type the commands (there is "green", "red", "pink", and "blue", plus all numbers from 0-9).
 ## Demo
 https://youtu.be/td9IhLr_510
