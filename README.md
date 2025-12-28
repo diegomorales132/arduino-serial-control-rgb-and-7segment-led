@@ -17,5 +17,5 @@ If input matches a color, the RGB LED changes.
 If input is a number, the 7-segment updates.
 ## How to run
 Upload the code, open Serial Monitor, set baud rate, type commands. 
-** Demo **
+## Demo
 https://youtu.be/td9IhLr_510
